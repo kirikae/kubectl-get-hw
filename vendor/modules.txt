@@ -1,0 +1,6 @@
+# k8s.io/cli-runtime v0.32.0
+## explicit; go 1.23.0
+k8s.io/cli-runtime
+# k8s.io/client-go v0.32.0
+## explicit; go 1.23.0
+k8s.io/client-go
